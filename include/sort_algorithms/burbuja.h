@@ -21,7 +21,7 @@ int burbuja (vector<clave> v)
             count++;
         }
 
-    write(v);
+
     return count;
 }
 
