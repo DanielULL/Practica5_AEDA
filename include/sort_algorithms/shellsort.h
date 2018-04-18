@@ -24,7 +24,6 @@ int shellsort(vector<clave> v, double alfa)
 
             }
 
-        write(v);
         return count;
 }
 
