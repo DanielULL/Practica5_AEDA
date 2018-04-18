@@ -52,7 +52,7 @@ int heapsort (vector<clave> v)
        baja(0,v,i,count);
      }
 
-     write(v);
+
      return count;
 }
 
